@@ -7,4 +7,6 @@ const HeaderItem = ({ title, Icon }) => {
     )
 }
 
+HeaderItem.displayName = 'HeaderItem';
+
 export default HeaderItem
